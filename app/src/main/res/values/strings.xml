@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A4G</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">A4G</string>
+    <string name="second_fragment_label">A4G</string>
+    <string name="next">Next</string>
+    <string name="interstitial_btn">Show Interstitial</string>
+    <string name="reward_btn">Get Rewarded</string>
+    <string name="previous">Previous</string>
+
+    <string name="about_first_fragment">Sample app to demo A4G Admob\nmediation adapter</string>
+    <string name="hello_first_fragment">Banner Ad</string>
+    <string name="hello_second_fragment">Interstitial Preview. Arg: %1$s</string>
+    <string name="copy">A4G © All Rights Reserved %1$s</string>
+</resources>
